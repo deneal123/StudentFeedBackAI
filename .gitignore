@@ -7,3 +7,8 @@
 /logs/
 /test/
 /data/
+/.ipynb_checkpoints/
+/bitsandbytes_windows/
+/database/
+/datasets/
+/weights/
