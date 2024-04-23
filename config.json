@@ -1,0 +1,42 @@
+{
+    "script_path": "C:\\Users\\NightMare\\PycharmProjects\\StudentFeedBackAI",
+    "path_to_temp": "C:\\Users\\NightMare\\PycharmProjects\\StudentFeedBackAI\\temp",
+    "path_to_inference": "C:\\Users\\NightMare\\PycharmProjects\\StudentFeedBackAI\\inference",
+    "path_to_weights": "C:\\Users\\NightMare\\PycharmProjects\\StudentFeedBackAI\\weights",
+    "path_to_database": "C:\\Users\\NightMare\\PycharmProjects\\StudentFeedBackAI\\database",
+    "dir_paths": {
+        "script_path": "script_path",
+        "path_to_temp": "path_to_temp",
+        "path_to_inference": "path_to_inference",
+        "path_to_weights": "path_to_weights",
+        "path_to_database": "path_to_database"
+    },
+    "start_time": null,
+    "end_time": null,
+    "execution_time": null,
+    "progress": null,
+    "device": null,
+    "model": null,
+    "preprocess": null,
+    "class_to_labels": null,
+    "predict_class": null,
+    "df": null,
+    "path_to_df": null,
+    "dir_params": {
+        "start_time": "start_time",
+        "end_time": "end_time",
+        "execution_time": "execution_time",
+        "progress": "progress",
+        "device": "device",
+        "model": "model",
+        "class_to_labels": "class_to_labels",
+        "predict_class": "predict_class",
+        "df": "df",
+        "path_to_df": "path_to_df"
+    },
+    "dir_lists": {},
+    "dir_data": {},
+    "dir_dirs": {
+        "dir_data": "dir_data"
+    }
+}

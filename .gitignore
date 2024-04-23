@@ -1,0 +1,9 @@
+/cudnn_windows/
+/inference/
+/temp/
+/venv/
+/setup.log
+/cachedir/
+/logs/
+/test/
+/data/
